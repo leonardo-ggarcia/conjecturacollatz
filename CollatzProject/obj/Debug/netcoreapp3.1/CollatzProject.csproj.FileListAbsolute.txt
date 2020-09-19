@@ -1,0 +1,13 @@
+C:\Users\leoga\source\repos\CollatzProject\CollatzProject\bin\Debug\netcoreapp3.1\CollatzProject.exe
+C:\Users\leoga\source\repos\CollatzProject\CollatzProject\bin\Debug\netcoreapp3.1\CollatzProject.deps.json
+C:\Users\leoga\source\repos\CollatzProject\CollatzProject\bin\Debug\netcoreapp3.1\CollatzProject.runtimeconfig.json
+C:\Users\leoga\source\repos\CollatzProject\CollatzProject\bin\Debug\netcoreapp3.1\CollatzProject.runtimeconfig.dev.json
+C:\Users\leoga\source\repos\CollatzProject\CollatzProject\bin\Debug\netcoreapp3.1\CollatzProject.dll
+C:\Users\leoga\source\repos\CollatzProject\CollatzProject\bin\Debug\netcoreapp3.1\CollatzProject.pdb
+C:\Users\leoga\source\repos\CollatzProject\CollatzProject\obj\Debug\netcoreapp3.1\CollatzProject.csprojAssemblyReference.cache
+C:\Users\leoga\source\repos\CollatzProject\CollatzProject\obj\Debug\netcoreapp3.1\CollatzProject.AssemblyInfoInputs.cache
+C:\Users\leoga\source\repos\CollatzProject\CollatzProject\obj\Debug\netcoreapp3.1\CollatzProject.AssemblyInfo.cs
+C:\Users\leoga\source\repos\CollatzProject\CollatzProject\obj\Debug\netcoreapp3.1\CollatzProject.dll
+C:\Users\leoga\source\repos\CollatzProject\CollatzProject\obj\Debug\netcoreapp3.1\CollatzProject.pdb
+C:\Users\leoga\source\repos\CollatzProject\CollatzProject\obj\Debug\netcoreapp3.1\CollatzProject.genruntimeconfig.cache
+C:\Users\leoga\source\repos\CollatzProject\CollatzProject\obj\Debug\netcoreapp3.1\CollatzProject.csproj.CoreCompileInputs.cache
